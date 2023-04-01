@@ -65,7 +65,9 @@ export default () => {
         liquidity: 'Liquidity',
         structure: 'Structure',
         documents: 'Documents',
-        contact: 'Get in touch'
+        contact: 'Get in touch',
+        footer_disclaimer:
+          "Wellscott Capital Management is authorised and regulated by the Dutch Authority for the Financial Markets (AFM). Please consider the investment objectives, risks and charges and expenses of the Fund carefully before investing. The Fund's prospectus contains this and other information about the Fund."
       }
     })
   })

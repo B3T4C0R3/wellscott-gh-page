@@ -9,7 +9,7 @@ const brand = {
     url: 'wellscott.com',
     img: '/static/images/wellscott-logo.png',
     address_1: 'Nevelgaarde 8',
-    address_2: 'Nieuwegein, 3436ZZ',
+    address_2: '3436ZZ Nieuwegein',
     address_3: 'Netherlands',
     notifMsg:
       'Donec sit amet nulla sed arcu pulvinar ultricies commodo id ligula.'
