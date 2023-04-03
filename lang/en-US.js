@@ -18,11 +18,7 @@ export default () => {
         created_by: 'Made by',
         form_name: 'What is your name? *',
         form_email: 'What it your email? *',
-        form_phone: 'What is your phone number?',
-        form_company: 'What is your company?',
         form_message: 'Write your message here',
-        form_terms: 'I have read and accept the Terms of',
-        form_privacy: 'Service & Privacy Policy *',
         form_send: 'Send Message'
       },
       wellscott: {
@@ -45,13 +41,14 @@ export default () => {
           "Keep the client's interests first. Work with colleagues to deliver the best of the Firm to every client.",
         mainfeature_value3: 'Commit to Diversity & Inclusion',
         mainfeature_value_text3:
-          'Champion an environment where all employees feel a sense of belonging—are heard, seen and respected. Expect everyone to challenge behavior counter to our culture of inclusion.',
+          'Champion an environment where all employees feel a sense of belonging, are heard, seen and respected. Expect everyone to challenge behavior counter to our culture of inclusion.',
         mainfeature_button: 'More about Wellscott',
         funds: 'Funds',
         funds_text:
           'Below is an overview of the funds managed by Wellscott, which are supervised by the Dutch authorities (AFM/DNB).',
         footer_contact: 'Contact',
         read_more: 'Read More',
+        newsletter: 'Monthly newsletter',
         about_title: 'About Wellscott',
         about_title2: 'More about Wellscott',
         about_text1:
@@ -66,8 +63,10 @@ export default () => {
         structure: 'Structure',
         documents: 'Documents',
         documents_text:
-          'All mandatory information can be provided on request with a copy and, if applicable, the costs involved.',
+          'Click on a category below to view and download the associated documents. All mandatory information can be provided on request with a copy and, if applicable, the costs involved.',
         contact: 'Get in touch',
+        contact_success: 'Message sent! We will respond as soon as possible.',
+        contact_error: 'Something went wrong, please try again later.',
         footer_disclaimer:
           "Wellscott Capital Management is authorised and regulated by the Dutch Authority for the Financial Markets (AFM). Please consider the investment objectives, risks and charges and expenses of the Fund carefully before investing. The Fund's prospectus contains this and other information about the Fund."
       }

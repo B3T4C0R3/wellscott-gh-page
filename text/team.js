@@ -1,21 +1,51 @@
 const team = [
   {
+    name: 'Joost Bouman',
+    title: 'Managing Director',
+    text: 'General/Compliance',
+    phone: '',
+    email: '',
+    image: 'joost_bouman.png'
+  },
+  {
+    name: 'Henry van Ginkel',
+    title: 'Managing Director',
+    text: 'Portfolio Manager',
+    phone: '',
+    email: '',
+    image: 'henry_van_ginkel.png'
+  },
+  {
+    name: 'Philip van Wijngaarden',
+    title: 'Managing Director',
+    text: 'Risk Management',
+    phone: '',
+    email: '',
+    image: 'philip_van_wijngaarden.png'
+  },
+  {
     name: 'Ralph Blaes',
-    title: 'Partner',
-    text:
-      'Cras pharetra enim sit amet mi lobortis, sed finibus sem sollicitudin. Ut vel congue diam, at commodo metus. In dictum dictum suscipit. Maecenas ligula neque, condimentum ut nulla sed, consequat feugiat turpis. ',
-    phone: '+31 6 48 27 31 83',
-    email: 'ralph.blaes@wellscott.com',
+    title: 'Business Development',
+    text: '',
+    phone: '',
+    email: '',
     image: 'ralph_blaes.png'
   },
   {
-    name: 'Joost Bouman',
-    title: 'Partner',
-    text:
-      'Cras pharetra enim sit amet mi lobortis, sed finibus sem sollicitudin. Ut vel congue diam, at commodo metus. In dictum dictum suscipit. Maecenas ligula neque, condimentum ut nulla sed, consequat feugiat turpis. ',
-    phone: '+31 6 48 27 31 83',
-    email: 'joost.bouman@wellscott.com',
-    image: 'joost_bouman.png'
+    name: 'Robbert Engel',
+    title: 'Compliance Officer',
+    text: 'Gharco & Dique',
+    phone: '',
+    email: '',
+    image: 'robbert_engel.png'
+  },
+  {
+    name: 'Annette van Driel',
+    title: 'Risk Advisor',
+    text: 'Gharco & Dique',
+    phone: '',
+    email: '',
+    image: 'annette_van_driel.png'
   }
 ]
 
