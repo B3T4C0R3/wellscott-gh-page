@@ -17,7 +17,7 @@ export default () => {
         nl: 'Dutch',
         created_by: 'Made by',
         form_name: 'What is your name? *',
-        form_email: 'What it your email? *',
+        form_email: 'What is your email? *',
         form_message: 'Write your message here',
         form_send: 'Send Message'
       },
