@@ -27,11 +27,11 @@ export default () => {
         header_funds: 'Our Funds',
         header_testimonials: 'testimonials',
         header_contact: 'contact',
-        banner_title: 'Alternatives investments and quality stocks',
+        banner_title: 'Alternative investments and quality stocks',
         promo_periode: 'Periode',
         mainfeature_title: 'Wellscott Capital Management',
         mainfeature_text:
-          'Capital Management B.V. (“Wellscott”) is a privately-owned investment management firm based in the Netherlands founded in 2009. We develop innovative solutions, leveraging the strengths of our asset management and our recognized skills in tactical and strategic asset allocation. We adapt to our clients needs and financial constraints, striking the right balance between quest for performance and rigorous risk management.',
+          'Wellscott Capital Management B.V. (“Wellscott”) is a privately-owned investment management firm based in the Netherlands founded in 2009. We develop innovative solutions, leveraging the strengths of our asset management and our recognized skills in tactical and strategic asset allocation. We adapt to our clients needs and financial constraints, striking the right balance between quest for performance and rigorous risk management.',
         mainfeature_values: 'Our Values',
         mainfeature_value1: 'Do the Right Thing',
         mainfeature_value_text1:
@@ -54,10 +54,10 @@ export default () => {
         about_text1:
           'Wellscott Capital Management ("Wellscott") has been active in the Dutch investment industry since its inception in 2009 and focuses primarily on developing and managing alternative investment strategies that generate long-term returns. Through its multi-disciplinary team, Wellscott provides a broad range of services from a strict risk management framework, managing funds to the ever-demanding compliance requirements required by today\'s industry.',
         about_text2:
-          "Partly thanks to Wellscott's international relationship, the ambition to remain a sound investment house and to continue to grow has become extraordinary, both in the Netherlands and far beyond the Netherlands.",
+          "Partly thanks to Wellscott's international network and relationships, the ambition is to establish a renowned investment house, both in the Netherlands and far beyond.",
         about_team: 'Meet the team',
         funds_title:
-          "Wellscott's funds are focused on alternatives investments and quality stocks",
+          "Wellscott's funds are focused on alternative investments and quality stocks",
         investment_strategy: 'Investment strategy',
         liquidity: 'Liquidity',
         structure: 'Structure',

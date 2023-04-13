@@ -34,7 +34,7 @@ const team = [
   {
     name: 'Robbert Engel',
     title: 'Compliance Officer',
-    text: 'Gharco & Dique',
+    text: 'Charco & Dique',
     phone: '',
     email: '',
     image: 'robbert_engel.png'
@@ -42,7 +42,7 @@ const team = [
   {
     name: 'Annette van Driel',
     title: 'Risk Advisor',
-    text: 'Gharco & Dique',
+    text: 'Charco & Dique',
     phone: '',
     email: '',
     image: 'annette_van_driel.png'
