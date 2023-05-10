@@ -68,7 +68,9 @@ export default () => {
         contact_success: 'Message sent! We will respond as soon as possible.',
         contact_error: 'Something went wrong, please try again later.',
         footer_disclaimer:
-          "Wellscott Capital Management is authorised and regulated by the Dutch Authority for the Financial Markets (AFM). Please consider the investment objectives, risks and charges and expenses of the Fund carefully before investing. The Fund's prospectus contains this and other information about the Fund."
+          "Wellscott Capital Management is authorised and regulated by the Dutch Authority for the Financial Markets (AFM). Please consider the investment objectives, risks and charges and expenses of the Fund carefully before investing. The Fund's prospectus contains this and other information about the Fund.",
+        code_question: 'Please enter the access code.',
+        code_question2: 'Enter the 4 digit access code to access Wellscott.com.'
       }
     })
   })
