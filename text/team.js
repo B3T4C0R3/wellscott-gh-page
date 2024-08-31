@@ -2,50 +2,50 @@ const team = [
   {
     name: 'Joost Bouman',
     title: 'Managing Director',
-    text: 'General/Compliance',
+    text: 'General & Compliance',
     phone: '',
     email: '',
-    image: 'joost_bouman.png'
+    image: 'joost_bouman.jpg'
   },
   {
-    name: 'Henry van Ginkel',
-    title: 'Managing Director',
-    text: 'Portfolio Manager',
+    name: 'Nick Samson',
+    title: 'External Complicance Officer',
+    text: 'Projective Group',
     phone: '',
     email: '',
-    image: 'henry_van_ginkel.png'
+    image: 'nick_samson.jpg'
   },
   {
-    name: 'Philip van Wijngaarden',
-    title: 'Managing Director',
-    text: 'Risk Management',
+    name: 'Andreas van den Brink',
+    title: 'Managing Director*',
+    text: 'Risk Manager',
     phone: '',
     email: '',
-    image: 'philip_van_wijngaarden.png'
+    image: 'andreas_van_den_brink.jpg'
+  },
+  {
+    name: 'Ronal van der Wal',
+    title: 'External Risk Advisor',
+    text: 'Endymion',
+    phone: '',
+    email: '',
+    image: 'ronald_van_der_wal.jpg'
   },
   {
     name: 'Ralph Blaes',
-    title: 'Business Development',
-    text: '',
+    title: 'Managing Director*',
+    text: 'Business Strategy & Development',
     phone: '',
     email: '',
-    image: 'ralph_blaes.png'
+    image: 'ralph_blaes.jpg'
   },
   {
-    name: 'Robbert Engel',
-    title: 'Compliance Officer',
-    text: 'Charco & Dique',
+    name: 'Andreia Muresan',
+    title: 'External Compliance Officer',
+    text: 'Krif',
     phone: '',
     email: '',
-    image: 'robbert_engel.png'
-  },
-  {
-    name: 'Annette van Driel',
-    title: 'Risk Advisor',
-    text: 'Charco & Dique',
-    phone: '',
-    email: '',
-    image: 'annette_van_driel.png'
+    image: 'andreia_muresan.jpg'
   }
 ]
 
