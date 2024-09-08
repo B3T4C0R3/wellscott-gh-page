@@ -5,7 +5,7 @@ const team = [
     text: 'General & Compliance',
     phone: '',
     email: '',
-    image: 'joost_bouman.jpg'
+    image: 'joost_bouman.jpeg'
   },
   {
     name: 'Nick Samson',
@@ -21,7 +21,7 @@ const team = [
     text: 'Risk Manager',
     phone: '',
     email: '',
-    image: 'andreas_van_den_brink.jpg'
+    image: 'andreas_van_den_brink.jpeg'
   },
   {
     name: 'Ronal van der Wal',
@@ -37,7 +37,7 @@ const team = [
     text: 'Business Strategy & Development',
     phone: '',
     email: '',
-    image: 'ralph_blaes.jpg'
+    image: 'ralph_blaes.jpeg'
   },
   {
     name: 'Andreia Muresan',

@@ -10,7 +10,10 @@ const brand = {
     img: '/static/images/wellscott-logo.png',
     address_1: 'Nevelgaarde 8',
     address_2: '3436ZZ Nieuwegein',
-    address_3: 'The Netherlands'
+    address_3: 'The Netherlands',
+    address_4: 'Nevelgaarde 8',
+    address_5: '3436ZZ Nieuwegein',
+    address_6: 'The Netherlands'
   }
 }
 

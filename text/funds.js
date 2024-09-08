@@ -34,15 +34,6 @@ const funds = {
     structure: 'Open end',
     text:
       'The objective is to achieve long term capital growth. To achieve this, the strategy is to invest in predominantly a diversified portfolio of Investments Funds. The portfolio is composed of Investments Funds with various strategies. The portfolio will be managed without a benchmark and specified return objectives.'
-  },
-  goref: {
-    name: 'GoRef Fund',
-    logo: '/images/logos/goref.jpg',
-    strategy: 'Automated trading strategies',
-    liquidity: 'Monthly',
-    structure: 'Open end',
-    text:
-      'The objective is to achieve long term capital growth. To achieve this, the strategy is to invest in predominantly a diversified portfolio of Investments Funds. The portfolio is composed of Investments Funds with various strategies. The portfolio will be managed without a benchmark and specified return objectives.'
   }
 }
 

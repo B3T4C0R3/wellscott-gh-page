@@ -10,14 +10,14 @@
       <rect id="Rectangle_3-2" data-name="Rectangle 3" width="463" height="318" transform="translate(-0.342 0.369)" fill="#fff" stroke="#707070" stroke-width="1"/>
     </clipPath>
     <clipPath id="clip-path-4">
-      <rect id="Rectangle_1" data-name="Rectangle 1" width="785" height="318" transform="translate(0.008 0.369)" fill="#00fbc3" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="785" height="318" transform="translate(0.008 0.369)" fill="#282f3c" stroke="#707070" stroke-width="1"/>
     </clipPath>
   </defs>
   <g id="Group_4" data-name="Group 4" transform="translate(-959.333 -245)">
     <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(727.666 245)" clip-path="url(#clip-path)">
       <g id="Group_2" data-name="Group 2" transform="translate(-686.777 -187)">
         <g id="Group_1" data-name="Group 1" transform="translate(70 1)" clip-path="url(#clip-path-2)">
-          <path id="Path_4" data-name="Path 4" d="M-958.574,457.025v700.866H-13.288v-16.454c22.633-1,40.092.5,54.495-5.983a163.265,163.265,0,0,0,37.036-22.438q15.432-12.715,23.92-26.177T115.28,1064.4q9.259-17.95,16.976-34.4t14.66-34.4q6.945-17.95,15.432-38.893t19.29-49.363Q218.674,813.1,255.71,718.11c10.79-27.673,54.428-138.283,102.919-261.085h-1317.2Z" transform="translate(913.377 -457.891)" fill="#131a26"/>
+          <path id="Path_4" data-name="Path 4" d="M-958.574,457.025v700.866H-13.288v-16.454c22.633-1,40.092.5,54.495-5.983a163.265,163.265,0,0,0,37.036-22.438q15.432-12.715,23.92-26.177T115.28,1064.4q9.259-17.95,16.976-34.4t14.66-34.4q6.945-17.95,15.432-38.893t19.29-49.363Q218.674,813.1,255.71,718.11c10.79-27.673,54.428-138.283,102.919-261.085h-1317.2Z" transform="translate(913.377 -457.891)" fill="#1b263b"/>
         </g>
       </g>
       <g id="Mask_Group_3-2" data-name="Mask Group 3" transform="translate(232.009 195.631)" clip-path="url(#clip-path-3)">
