@@ -5,31 +5,7 @@ const team = [
     text: 'General & Compliance',
     phone: '',
     email: '',
-    image: 'joost_bouman.jpeg'
-  },
-  {
-    name: 'Nick Samson',
-    title: 'External Complicance Officer',
-    text: 'Projective Group',
-    phone: '',
-    email: '',
-    image: 'nick_samson.jpg'
-  },
-  {
-    name: 'Andreas van den Brink',
-    title: 'Managing Director*',
-    text: 'Risk Manager',
-    phone: '',
-    email: '',
-    image: 'andreas_van_den_brink.jpeg'
-  },
-  {
-    name: 'Ronal van der Wal',
-    title: 'External Risk Advisor',
-    text: 'Endymion',
-    phone: '',
-    email: '',
-    image: 'ronald_van_der_wal.jpg'
+    image: 'joost_bouman.png'
   },
   {
     name: 'Ralph Blaes',
@@ -37,7 +13,31 @@ const team = [
     text: 'Business Strategy & Development',
     phone: '',
     email: '',
-    image: 'ralph_blaes.jpeg'
+    image: 'ralph_blaes.png'
+  },
+  {
+    name: 'Andreas van den Brink',
+    title: 'Managing Director*',
+    text: 'Risk Manager',
+    phone: '',
+    email: '',
+    image: 'andreas_van_den_brink.png'
+  },
+  {
+    name: 'Ronal van der Wal',
+    title: 'External Risk Advisor',
+    text: 'Endymion',
+    phone: '',
+    email: '',
+    image: 'ronald_van_der_wal.png'
+  },
+  {
+    name: 'Nick Samson',
+    title: 'External Complicance Officer',
+    text: 'Projective Group',
+    phone: '',
+    email: '',
+    image: 'nick_samson.png'
   },
   {
     name: 'Andreia Muresan',
@@ -45,7 +45,7 @@ const team = [
     text: 'Krif',
     phone: '',
     email: '',
-    image: 'andreia_muresan.jpg'
+    image: 'andreia_muresan.png'
   }
 ]
 
