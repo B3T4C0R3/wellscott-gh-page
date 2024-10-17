@@ -9,7 +9,7 @@ const team = [
   },
   {
     name: 'Ralph Blaes',
-    title: 'Managing Director*',
+    title: 'Managing Director',
     text: 'Business Strategy & Development',
     phone: '',
     email: '',
@@ -17,7 +17,7 @@ const team = [
   },
   {
     name: 'Andreas van den Brink',
-    title: 'Managing Director*',
+    title: 'Managing Director',
     text: 'Risk Manager',
     phone: '',
     email: '',
